@@ -1,1 +1,1 @@
-Creating a lik list
+Creating a linked list
